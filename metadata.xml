@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-    <name>Game Timer Tracker</name>
+    <name>Game Time Tracker</name>
     <directory>game_time_tracker</directory>
-    <description>Tracks total duration of games played.
+    <id>3097022825</id>
+    <description>Tracks total in-game time played.
 
-[i]Cannot track duration of dailies.[/i]
+Logs your in-game time played. The save#.dat file located in: &quot;.\The Binding of Isaac Rebirth\data\game_time_tracker&quot; should be opened with a text editor to view the amount.
 
 [hr][/hr]
 
-Have any ideas? Found a bug? visit the mod repository @ https://github.com/fjara-h
+[i]This cannot be enabled to track time played during daily runs.[/i]
+
+[hr][/hr]
+
+Have any ideas? Found a bug? Visit the mod repository @ https://github.com/Fjara-h/game_time_tracker
 
 </description>
-    <version>1.0</version>
+    <version>1.1</version>
     <visibility>Public</visibility>
     <tag id="Lua"/>
 </metadata>
