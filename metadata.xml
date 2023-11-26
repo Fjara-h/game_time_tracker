@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Game Timer Tracker</name>
+    <directory>game_time_tracker</directory>
+    <description>Tracks total duration of games played.
+
+[i]Cannot track duration of dailies.[/i]
+
+[hr][/hr]
+
+Have any ideas? Found a bug? visit the mod repository @ https://github.com/fjara-h
+
+</description>
+    <version>1.0</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+</metadata>
